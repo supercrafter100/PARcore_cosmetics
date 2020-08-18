@@ -7,4 +7,11 @@ name: &c&lINVALID,
 item: barrier,
 desc: &7If you have this suffix; MESSAGE a developer/co-owner/owner ASAP,
 price: -1
+;
+name: E-Boy,
+item: 421,
+desc: &7Show everyone you are such an E-Boy!,
+price: 5000,
+suffix: &f[&bE-Boy&f]
+;
 
