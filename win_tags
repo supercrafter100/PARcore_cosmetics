@@ -1,0 +1,8 @@
+name: Standard,
+item: paper,
+desc: &7The default win tag,
+price: 0,
+frameDelay: 120,
+frames:
+&b[wonPlayer] &fwon
+;
