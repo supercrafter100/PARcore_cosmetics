@@ -14,4 +14,10 @@ desc: &7Show everyone you are such an E-Boy!,
 price: 5000,
 suffix: &f[&bE-Boy&f]
 ;
+name: E-Girl,
+item: 421,
+desc: &7Show everyone you are sucn an E-Girl!,
+price: 5000,
+suffix: &f[&dE-Girl&f]
+;
 
