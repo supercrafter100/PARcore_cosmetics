@@ -31,3 +31,9 @@ item: 421,
 desc: &7they say I jump like a kangaroo,
 price: 7500,
 suffix: &f[&aKangaroo&f]
+;
+name: Jumper,
+item: 421,
+desc: &7Jumping everywhere!,
+price: 5000,
+suffix: &f[&aJumper&f]
