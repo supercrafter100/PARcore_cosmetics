@@ -1,0 +1,10 @@
+name: None,
+item: barrier,
+desc: &7The suffix for nothing,
+price: 0
+;
+name: &c&lINVALID,
+item: barrier,
+desc: &7If you have this suffix; MESSAGE a developer/co-owner/owner ASAP,
+price: -1
+;
