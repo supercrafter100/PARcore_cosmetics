@@ -6,3 +6,24 @@ frameDelay: 120,
 frames:
 &b[wonPlayer] &fwon
 ;
+name: GG (animated),
+item: diamond,
+desc: &7A more fancy GG,
+price: 12500,
+frameDelay: 5,
+frames:
+&6&lG&food Game<nf>
+&fG&6&lo&fod Game<nf>
+&fGo&6&lo&fd Game<nf>
+&fGoo&6&ld&f Game<nf>
+&fGood &6&lG&fame<nf>
+&fGood G&6&la&fme<nf>
+&fGood Ga&6&lm&fe<nf>
+&fGood Gam&6&le<nf>
+&6&lGood Game<nf>
+&fGood Game<nf>
+&6&lGood Game<nf>
+&fGood Game<nf>
+&6&lGood Game<nf>
+&fGood Game
+;
