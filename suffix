@@ -20,13 +20,13 @@ desc: &7Show everyone you are sucn an E-Girl!,
 price: 5000,
 suffix: &f[&dE-Girl&f]
 ;
-name: &e&lRabbit,
+name: Rabbit,
 item: 421,
 desc: &7I love rabbits,
 price: 7500,
 suffix: &f[&eRabbit&f]
 ;
-name: &a&lKangaroo,
+name: Kangaroo,
 item: 421,
 desc: &7they say I jump like a kangaroo,
 price: 7500,
