@@ -44,3 +44,8 @@ desc: &7Parkour gods will never die,
 price: 15000,
 suffix: &f[&eParkourGod&f]
 ;
+name: name,
+item: item,
+desc: desc,
+price: -1,
+suffix: [suffix]
