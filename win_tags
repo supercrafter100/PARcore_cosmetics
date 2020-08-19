@@ -36,7 +36,7 @@ desc: &7Give them a thanks,
 price: 5000,
 frameDelay: 120,
 frames:
-&aThanks for letting me win!
+&aThanks for letting me win [lostPlayer]!
 ;
 name: HaHa,
 item: skeleton head,
