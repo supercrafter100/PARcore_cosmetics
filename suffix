@@ -37,3 +37,10 @@ item: 421,
 desc: &7Jumping everywhere!,
 price: 5000,
 suffix: &f[&aJumper&f]
+;
+name: ParkourGod,
+item: 421,
+desc: &7Parkour gods will never die,
+price: 15000,
+suffix: &f[&eParkourGod&f]
+;
