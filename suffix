@@ -49,3 +49,63 @@ item: item,
 desc: desc,
 price: -1,
 suffix: [suffix]
+;
+name: Boomer,
+item: 421,
+desc: &7Ok boomer,
+price: 5000,
+suffix: &f[Boomer]
+;
+name: Pro,
+item: 421,
+desc: &7Tell them you are a pro!,
+price: 2500,
+suffix: &f[&bPro&f]
+;
+name: Cool,
+item: 421,
+desc: &7Ur a cool guy,
+price: 1000,
+suffix: &f[&6Cool&f]
+;
+name: Noob,
+item: 421,
+desc: &7Tell everyone you are a noob,
+price: 1000,
+suffix: &f[&3Noob&f]
+;
+name: Dab,
+item: 421,
+desc: &7Dab in chat!,
+price: 5000,
+suffix: &f[&6<o/&f]
+;
+name: Leaper,
+item: 421,
+desc: &7Leap your way to victory,
+price: 5000,
+suffix: &f[&aLeaper&f]
+;
+name: Fantastic,
+item: 421,
+desc: &7You are just fantastic...,
+price: 2500,
+suffix: &f[&9Fantastic&f]
+;
+name: Idiot,
+item: 421,
+desc: &7You are an idiot sir,
+price: 1000,
+suffix: &f[&bIdiot&f]
+;
+name: boosted,
+item: nether_star,
+desc: &7if u have this. You boosted for our server!,
+price: -1,
+suffix: &f[&5Boosted&f]
+;
+name: name,
+item: item,
+desc: desc,
+price: -1,
+suffix: [suffix]
