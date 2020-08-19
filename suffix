@@ -8,6 +8,36 @@ item: barrier,
 desc: &7If you have this suffix; MESSAGE a developer/co-owner/owner ASAP,
 price: -1
 ;
+name: Cool,
+item: 421,
+desc: &7You are cool man!,
+price: 1000,
+suffix: &f[&6Cool&f]
+;
+name: Noob,
+item: 421,
+desc: &7Tell everyone you are a noob,
+price: 1000,
+suffix: &f[&3Noob&f]
+;
+name: Idiot,
+item: 421,
+desc: &7You are an idiot sir,
+price: 1000,
+suffix: &f[&bIdiot&f]
+;
+name: Pro,
+item: 421,
+desc: &7Tell them you are a pro!,
+price: 2500,
+suffix: &f[&bPro&f]
+;
+name: Fantastic,
+item: 421,
+desc: &7You are just fantastic...,
+price: 2500,
+suffix: &f[&9Fantastic&f]
+;
 name: E-Boy,
 item: 421,
 desc: &7Show everyone you are such an E-Boy!,
@@ -19,6 +49,24 @@ item: 421,
 desc: &7Show everyone you are sucn an E-Girl!,
 price: 5000,
 suffix: &f[&dE-Girl&f]
+;
+name: Jumper,
+item: 421,
+desc: &7Jumping everywhere!,
+price: 5000,
+suffix: &f[&aJumper&f]
+;
+name: Leaper,
+item: 421,
+desc: &7Leap your way to victory,
+price: 5000,
+suffix: &f[&aLeaper&f]
+;
+name: Boomer,
+item: 421,
+desc: &7Ok boomer,
+price: 5000,
+suffix: &f[Boomer]
 ;
 name: Rabbit,
 item: 421,
@@ -32,71 +80,17 @@ desc: &7they say I jump like a kangaroo,
 price: 7500,
 suffix: &f[&aKangaroo&f]
 ;
-name: Jumper,
-item: 421,
-desc: &7Jumping everywhere!,
-price: 5000,
-suffix: &f[&aJumper&f]
-;
 name: ParkourGod,
 item: 421,
 desc: &7Parkour gods will never die,
 price: 15000,
 suffix: &f[&eParkourGod&f]
 ;
-name: name,
-item: item,
-desc: desc,
-price: -1,
-suffix: [suffix]
-;
-name: Boomer,
-item: 421,
-desc: &7Ok boomer,
-price: 5000,
-suffix: &f[Boomer]
-;
-name: Pro,
-item: 421,
-desc: &7Tell them you are a pro!,
-price: 2500,
-suffix: &f[&bPro&f]
-;
-name: Cool,
-item: 421,
-desc: &7Ur a cool guy,
-price: 1000,
-suffix: &f[&6Cool&f]
-;
-name: Noob,
-item: 421,
-desc: &7Tell everyone you are a noob,
-price: 1000,
-suffix: &f[&3Noob&f]
-;
 name: Dab,
 item: 421,
 desc: &7Dab in chat!,
-price: 5000,
+price: 15000,
 suffix: &f[&6<o/&f]
-;
-name: Leaper,
-item: 421,
-desc: &7Leap your way to victory,
-price: 5000,
-suffix: &f[&aLeaper&f]
-;
-name: Fantastic,
-item: 421,
-desc: &7You are just fantastic...,
-price: 2500,
-suffix: &f[&9Fantastic&f]
-;
-name: Idiot,
-item: 421,
-desc: &7You are an idiot sir,
-price: 1000,
-suffix: &f[&bIdiot&f]
 ;
 name: boosted,
 item: nether_star,
