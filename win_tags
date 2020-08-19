@@ -6,6 +6,72 @@ frameDelay: 120,
 frames:
 &b[wonPlayer] &fwon
 ;
+name: Sporty,
+item: map,
+desc: &7A sporty tag,
+price: 2500,
+frameDelay: 120,
+frames:
+&6Good Game [lostPlayer]!
+;
+name: I won?,
+item: pufferfish,
+desc: &7OMG YOU WON,
+price: 2500,
+frameDelay: 120,
+frames:
+&6&lOMG &eI finally won! &6&lOMG
+;
+name: Rekt,
+item: potato,
+desc: &7That feeling when you destroy someone,
+price: 2500,
+frameDelay: 120,
+frames:
+&6Get R3kt
+;
+name: Thanks,
+item: cake,
+desc: &7Give them a thanks,
+price: 5000,
+frameDelay: 120,
+frames:
+&aThanks for letting me win, [lostPlayer]!
+;
+name: HaHa,
+item: skeleton head,
+desc: &7Laughing to someone,
+price: 5000,
+frameDelay: 120,
+frames:
+&6Haha &c[lostPlayer] &6lost!
+;
+name: Nice try,
+item: rotten flesh,
+desc: &7He did well,
+price: 5000,
+frameDelay: 120,
+frames:
+&cNice try &7[lostPlayer]
+;
+name: &eLegit,
+item: 35:5,
+desc: &7Tell them you are legit,
+price: 7500,
+frameDelay: 30,
+frames:
+&c[wonplayer]<nf>
+&aIs legit
+;
+name: &eNoob,
+item: saddle,
+desc: &7Tell ur opponent hes a noob,
+price: 10000,
+frameDelay: 30,
+frames:
+&c[lostPlayer]<nf>
+&eIs a noob!
+;
 name: GG (animated),
 item: diamond,
 desc: &7A more fancy GG,
@@ -26,4 +92,41 @@ frames:
 &fGood Game<nf>
 &6&lGood Game<nf>
 &fGood Game
+;
+name: &6Dab,
+item: totem_of_undying,
+desc: &7Dab at dem haters,
+price: 15000,
+frameDelay: 5,
+frames:
+&e|o|<nf>
+&e\o><nf>
+&e\o><nf>
+&e|o|<nf>
+&e<o/<nf>
+&e<o/
+;
+name: &c&oOk Boomer,
+item: observer,
+desc: &7Win and dont give,
+price: 20000,
+frameDelay: 5,
+frames:
+&8O--{ &4&lo&ck &6b&eo&ao&2m&3e&9r&8 }--O<nf>
+&8O--{ &4o&c&lk &6b&eo&ao&2m&3e&9r&8 }--O<nf>
+&8O--{ &4o&ck &6&lb&eo&ao&2m&3e&9r&8 }--O<nf>
+&8O--{ &4o&ck &6b&e&lo&ao&2m&3e&9r&8 }--O<nf>
+&8O--{ &4o&ck &6b&eo&a&lo&2m&3e&9r&8 }--O<nf>
+&8O--{ &4o&ck &6b&eo&ao&2&lm&3e&9r&8 }--O<nf>
+&8O--{ &4o&ck &6b&eo&ao&2m&3&le&9r&8 }--O<nf>
+&8O--{ &4o&ck &6b&eo&ao&2m&3e&9&lr&8 }--O
+;
+name: name,
+item: item,
+desc: desc,
+price: -1,
+frameDelay: 120,
+frames:
+frame1<nf>
+frame2
 ;
