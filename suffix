@@ -98,6 +98,12 @@ desc: &7if u have this. You boosted for our server!,
 price: -1,
 suffix: &f[&5Boosted&f]
 ;
+name: Extronix,
+item: nether star,
+desc: &7A Extronix_ exlusive suffix!,
+price: -1,
+suffix: &f[&3Penguin&f]
+;
 name: name,
 item: item,
 desc: desc,
