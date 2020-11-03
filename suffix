@@ -104,6 +104,12 @@ desc: &7A Extronix_ exlusive suffix!,
 price: -1,
 suffix: &f[&3Penguin&f]
 ;
+name: GODS,
+item: nether star,
+desc: &7Only for people that are absolute GODS at parkour,
+price: -1,
+suffix: &f[&6&lGODS&f]
+;
 name: name,
 item: item,
 desc: desc,
