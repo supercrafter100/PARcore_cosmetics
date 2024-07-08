@@ -10,7 +10,7 @@ price: -1
 ;
 name: Cool,
 item: 421,
-desc: &7You are cool man!,
+desc: &7You are so cool!,
 price: 1000,
 suffix: &f[&6Cool&f]
 ;
@@ -46,7 +46,7 @@ suffix: &f[&bE-Boy&f]
 ;
 name: E-Girl,
 item: 421,
-desc: &7Show everyone you are sucn an E-Girl!,
+desc: &7Show everyone you are such an E-Girl!,
 price: 5000,
 suffix: &f[&dE-Girl&f]
 ;
@@ -76,7 +76,7 @@ suffix: &f[&eRabbit&f]
 ;
 name: Kangaroo,
 item: 421,
-desc: &7they say I jump like a kangaroo,
+desc: &7They say I jump like a kangaroo,
 price: 7500,
 suffix: &f[&aKangaroo&f]
 ;
